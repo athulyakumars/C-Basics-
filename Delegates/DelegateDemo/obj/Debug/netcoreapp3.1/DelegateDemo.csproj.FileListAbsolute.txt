@@ -1,0 +1,13 @@
+D:\StudyField\Delegates\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.exe
+D:\StudyField\Delegates\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.deps.json
+D:\StudyField\Delegates\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.json
+D:\StudyField\Delegates\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.dev.json
+D:\StudyField\Delegates\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.dll
+D:\StudyField\Delegates\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.pdb
+D:\StudyField\Delegates\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csprojAssemblyReference.cache
+D:\StudyField\Delegates\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfoInputs.cache
+D:\StudyField\Delegates\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfo.cs
+D:\StudyField\Delegates\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\StudyField\Delegates\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.dll
+D:\StudyField\Delegates\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.pdb
+D:\StudyField\Delegates\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.genruntimeconfig.cache

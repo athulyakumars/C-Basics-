@@ -1,0 +1,13 @@
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\bin\Debug\netcoreapp3.1\C#Basics_AbstractClass.exe
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\bin\Debug\netcoreapp3.1\C#Basics_AbstractClass.deps.json
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\bin\Debug\netcoreapp3.1\C#Basics_AbstractClass.runtimeconfig.json
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\bin\Debug\netcoreapp3.1\C#Basics_AbstractClass.runtimeconfig.dev.json
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\bin\Debug\netcoreapp3.1\C#Basics_AbstractClass.dll
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\bin\Debug\netcoreapp3.1\C#Basics_AbstractClass.pdb
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\obj\Debug\netcoreapp3.1\C#Basics_AbstractClass.csprojAssemblyReference.cache
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\obj\Debug\netcoreapp3.1\C#Basics_AbstractClass.AssemblyInfoInputs.cache
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\obj\Debug\netcoreapp3.1\C#Basics_AbstractClass.AssemblyInfo.cs
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\obj\Debug\netcoreapp3.1\C#Basics_AbstractClass.csproj.CoreCompileInputs.cache
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\obj\Debug\netcoreapp3.1\C#Basics_AbstractClass.dll
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\obj\Debug\netcoreapp3.1\C#Basics_AbstractClass.pdb
+D:\StudyField\C#_Basics\C#Basics_AbstractClass\obj\Debug\netcoreapp3.1\C#Basics_AbstractClass.genruntimeconfig.cache

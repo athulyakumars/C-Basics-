@@ -1,0 +1,12 @@
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\bin\Debug\netstandard2.0\Feedback.Application.deps.json
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\bin\Debug\netstandard2.0\Feedback.Application.dll
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\bin\Debug\netstandard2.0\Feedback.Application.pdb
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\obj\Debug\netstandard2.0\Feedback.Application.csprojAssemblyReference.cache
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\obj\Debug\netstandard2.0\Feedback.Application.AssemblyInfoInputs.cache
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\obj\Debug\netstandard2.0\Feedback.Application.AssemblyInfo.cs
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\obj\Debug\netstandard2.0\Feedback.Application.csproj.CoreCompileInputs.cache
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\obj\Debug\netstandard2.0\Feedback.Application.dll
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\obj\Debug\netstandard2.0\Feedback.Application.pdb
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\bin\Debug\netstandard2.0\Feedback.Domain.dll
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\bin\Debug\netstandard2.0\Feedback.Domain.pdb
+D:\StudyField\FeedbackAPI\Feedback\Feedback.Application\obj\Debug\netstandard2.0\Feedback.Application.csproj.CopyComplete

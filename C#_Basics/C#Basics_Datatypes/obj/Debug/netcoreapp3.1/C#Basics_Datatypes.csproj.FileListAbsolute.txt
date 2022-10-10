@@ -1,0 +1,13 @@
+D:\StudyField\C#_Basics\C#Basics_Datatypes\bin\Debug\netcoreapp3.1\C#Basics_Datatypes.exe
+D:\StudyField\C#_Basics\C#Basics_Datatypes\bin\Debug\netcoreapp3.1\C#Basics_Datatypes.deps.json
+D:\StudyField\C#_Basics\C#Basics_Datatypes\bin\Debug\netcoreapp3.1\C#Basics_Datatypes.runtimeconfig.json
+D:\StudyField\C#_Basics\C#Basics_Datatypes\bin\Debug\netcoreapp3.1\C#Basics_Datatypes.runtimeconfig.dev.json
+D:\StudyField\C#_Basics\C#Basics_Datatypes\bin\Debug\netcoreapp3.1\C#Basics_Datatypes.dll
+D:\StudyField\C#_Basics\C#Basics_Datatypes\bin\Debug\netcoreapp3.1\C#Basics_Datatypes.pdb
+D:\StudyField\C#_Basics\C#Basics_Datatypes\obj\Debug\netcoreapp3.1\C#Basics_Datatypes.csprojAssemblyReference.cache
+D:\StudyField\C#_Basics\C#Basics_Datatypes\obj\Debug\netcoreapp3.1\C#Basics_Datatypes.AssemblyInfoInputs.cache
+D:\StudyField\C#_Basics\C#Basics_Datatypes\obj\Debug\netcoreapp3.1\C#Basics_Datatypes.AssemblyInfo.cs
+D:\StudyField\C#_Basics\C#Basics_Datatypes\obj\Debug\netcoreapp3.1\C#Basics_Datatypes.csproj.CoreCompileInputs.cache
+D:\StudyField\C#_Basics\C#Basics_Datatypes\obj\Debug\netcoreapp3.1\C#Basics_Datatypes.dll
+D:\StudyField\C#_Basics\C#Basics_Datatypes\obj\Debug\netcoreapp3.1\C#Basics_Datatypes.pdb
+D:\StudyField\C#_Basics\C#Basics_Datatypes\obj\Debug\netcoreapp3.1\C#Basics_Datatypes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\StudyField\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.exe
+D:\StudyField\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.deps.json
+D:\StudyField\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.runtimeconfig.json
+D:\StudyField\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.runtimeconfig.dev.json
+D:\StudyField\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.dll
+D:\StudyField\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.pdb
+D:\StudyField\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.csprojAssemblyReference.cache
+D:\StudyField\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.AssemblyInfoInputs.cache
+D:\StudyField\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.AssemblyInfo.cs
+D:\StudyField\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.csproj.CoreCompileInputs.cache
+D:\StudyField\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.dll
+D:\StudyField\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.pdb
+D:\StudyField\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.genruntimeconfig.cache

@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\StudyField\\WebAPIDemoProject\\WebAPIDemo\\WebAPIDemo.csproj": {}
+  },
+  "projects": {
+    "D:\\StudyField\\WebAPIDemoProject\\WebAPIDemo\\WebAPIDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\StudyField\\WebAPIDemoProject\\WebAPIDemo\\WebAPIDemo.csproj",
+        "projectName": "WebAPIDemo",
+        "projectPath": "D:\\StudyField\\WebAPIDemoProject\\WebAPIDemo\\WebAPIDemo.csproj",
+        "packagesPath": "C:\\Users\\athulya.s\\.nuget\\packages\\",
+        "outputPath": "D:\\StudyField\\WebAPIDemoProject\\WebAPIDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\athulya.s\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Npgsql.Bulk": {
+              "target": "Package",
+              "version": "[0.10.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "54Ai8MGY6dOzk1jDJ03Qjkt0XG/DVZlgKWcmkY/EpURzG6/tjt/mifabY1sZMiK+oMnzGzij4aIniNPIzs9BOw==",
+  "success": true,
+  "projectFilePath": "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Infrastructure\\Feedback.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\athulya.s\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\athulya.s\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\StudyField\C#_Basics\C#Basics_Enums\bin\Debug\netcoreapp3.1\C#Basics_Enums.exe
+D:\StudyField\C#_Basics\C#Basics_Enums\bin\Debug\netcoreapp3.1\C#Basics_Enums.deps.json
+D:\StudyField\C#_Basics\C#Basics_Enums\bin\Debug\netcoreapp3.1\C#Basics_Enums.runtimeconfig.json
+D:\StudyField\C#_Basics\C#Basics_Enums\bin\Debug\netcoreapp3.1\C#Basics_Enums.runtimeconfig.dev.json
+D:\StudyField\C#_Basics\C#Basics_Enums\bin\Debug\netcoreapp3.1\C#Basics_Enums.dll
+D:\StudyField\C#_Basics\C#Basics_Enums\bin\Debug\netcoreapp3.1\C#Basics_Enums.pdb
+D:\StudyField\C#_Basics\C#Basics_Enums\obj\Debug\netcoreapp3.1\C#Basics_Enums.csprojAssemblyReference.cache
+D:\StudyField\C#_Basics\C#Basics_Enums\obj\Debug\netcoreapp3.1\C#Basics_Enums.AssemblyInfoInputs.cache
+D:\StudyField\C#_Basics\C#Basics_Enums\obj\Debug\netcoreapp3.1\C#Basics_Enums.AssemblyInfo.cs
+D:\StudyField\C#_Basics\C#Basics_Enums\obj\Debug\netcoreapp3.1\C#Basics_Enums.csproj.CoreCompileInputs.cache
+D:\StudyField\C#_Basics\C#Basics_Enums\obj\Debug\netcoreapp3.1\C#Basics_Enums.dll
+D:\StudyField\C#_Basics\C#Basics_Enums\obj\Debug\netcoreapp3.1\C#Basics_Enums.pdb
+D:\StudyField\C#_Basics\C#Basics_Enums\obj\Debug\netcoreapp3.1\C#Basics_Enums.genruntimeconfig.cache

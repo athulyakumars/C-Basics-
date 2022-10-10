@@ -1,0 +1,13 @@
+D:\StudyField\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.exe
+D:\StudyField\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.deps.json
+D:\StudyField\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.runtimeconfig.json
+D:\StudyField\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.runtimeconfig.dev.json
+D:\StudyField\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.dll
+D:\StudyField\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.pdb
+D:\StudyField\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.csprojAssemblyReference.cache
+D:\StudyField\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.AssemblyInfoInputs.cache
+D:\StudyField\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.AssemblyInfo.cs
+D:\StudyField\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.csproj.CoreCompileInputs.cache
+D:\StudyField\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.dll
+D:\StudyField\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.pdb
+D:\StudyField\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.genruntimeconfig.cache

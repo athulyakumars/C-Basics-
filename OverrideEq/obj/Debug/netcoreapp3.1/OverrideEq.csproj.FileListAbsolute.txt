@@ -1,0 +1,13 @@
+D:\StudyField\SimpleSort\OverrideEq\bin\Debug\netcoreapp3.1\OverrideEq.exe
+D:\StudyField\SimpleSort\OverrideEq\bin\Debug\netcoreapp3.1\OverrideEq.deps.json
+D:\StudyField\SimpleSort\OverrideEq\bin\Debug\netcoreapp3.1\OverrideEq.runtimeconfig.json
+D:\StudyField\SimpleSort\OverrideEq\bin\Debug\netcoreapp3.1\OverrideEq.runtimeconfig.dev.json
+D:\StudyField\SimpleSort\OverrideEq\bin\Debug\netcoreapp3.1\OverrideEq.dll
+D:\StudyField\SimpleSort\OverrideEq\bin\Debug\netcoreapp3.1\OverrideEq.pdb
+D:\StudyField\SimpleSort\OverrideEq\obj\Debug\netcoreapp3.1\OverrideEq.csprojAssemblyReference.cache
+D:\StudyField\SimpleSort\OverrideEq\obj\Debug\netcoreapp3.1\OverrideEq.AssemblyInfoInputs.cache
+D:\StudyField\SimpleSort\OverrideEq\obj\Debug\netcoreapp3.1\OverrideEq.AssemblyInfo.cs
+D:\StudyField\SimpleSort\OverrideEq\obj\Debug\netcoreapp3.1\OverrideEq.csproj.CoreCompileInputs.cache
+D:\StudyField\SimpleSort\OverrideEq\obj\Debug\netcoreapp3.1\OverrideEq.dll
+D:\StudyField\SimpleSort\OverrideEq\obj\Debug\netcoreapp3.1\OverrideEq.pdb
+D:\StudyField\SimpleSort\OverrideEq\obj\Debug\netcoreapp3.1\OverrideEq.genruntimeconfig.cache

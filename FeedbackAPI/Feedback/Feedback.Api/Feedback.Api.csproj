@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Feedback.Contracts\Feedback.Contracts.csproj" />
+    <ProjectReference Include="..\Feedback.Application\Feedback.Application.csproj" />
+    <ProjectReference Include="..\Feedback.Infrastructure\Feedback.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>

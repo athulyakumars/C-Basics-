@@ -1,0 +1,13 @@
+D:\StudyField\DictionaryC#\bin\Debug\netcoreapp3.1\DictionaryC#.exe
+D:\StudyField\DictionaryC#\bin\Debug\netcoreapp3.1\DictionaryC#.deps.json
+D:\StudyField\DictionaryC#\bin\Debug\netcoreapp3.1\DictionaryC#.runtimeconfig.json
+D:\StudyField\DictionaryC#\bin\Debug\netcoreapp3.1\DictionaryC#.runtimeconfig.dev.json
+D:\StudyField\DictionaryC#\bin\Debug\netcoreapp3.1\DictionaryC#.dll
+D:\StudyField\DictionaryC#\bin\Debug\netcoreapp3.1\DictionaryC#.pdb
+D:\StudyField\DictionaryC#\obj\Debug\netcoreapp3.1\DictionaryC#.csprojAssemblyReference.cache
+D:\StudyField\DictionaryC#\obj\Debug\netcoreapp3.1\DictionaryC#.AssemblyInfoInputs.cache
+D:\StudyField\DictionaryC#\obj\Debug\netcoreapp3.1\DictionaryC#.AssemblyInfo.cs
+D:\StudyField\DictionaryC#\obj\Debug\netcoreapp3.1\DictionaryC#.csproj.CoreCompileInputs.cache
+D:\StudyField\DictionaryC#\obj\Debug\netcoreapp3.1\DictionaryC#.dll
+D:\StudyField\DictionaryC#\obj\Debug\netcoreapp3.1\DictionaryC#.pdb
+D:\StudyField\DictionaryC#\obj\Debug\netcoreapp3.1\DictionaryC#.genruntimeconfig.cache

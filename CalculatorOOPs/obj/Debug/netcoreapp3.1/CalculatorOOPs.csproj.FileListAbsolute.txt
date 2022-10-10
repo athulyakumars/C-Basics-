@@ -1,0 +1,13 @@
+D:\StudyField\CalculatorOOPs\bin\Debug\netcoreapp3.1\CalculatorOOPs.exe
+D:\StudyField\CalculatorOOPs\bin\Debug\netcoreapp3.1\CalculatorOOPs.deps.json
+D:\StudyField\CalculatorOOPs\bin\Debug\netcoreapp3.1\CalculatorOOPs.runtimeconfig.json
+D:\StudyField\CalculatorOOPs\bin\Debug\netcoreapp3.1\CalculatorOOPs.runtimeconfig.dev.json
+D:\StudyField\CalculatorOOPs\bin\Debug\netcoreapp3.1\CalculatorOOPs.dll
+D:\StudyField\CalculatorOOPs\bin\Debug\netcoreapp3.1\CalculatorOOPs.pdb
+D:\StudyField\CalculatorOOPs\obj\Debug\netcoreapp3.1\CalculatorOOPs.csprojAssemblyReference.cache
+D:\StudyField\CalculatorOOPs\obj\Debug\netcoreapp3.1\CalculatorOOPs.AssemblyInfoInputs.cache
+D:\StudyField\CalculatorOOPs\obj\Debug\netcoreapp3.1\CalculatorOOPs.AssemblyInfo.cs
+D:\StudyField\CalculatorOOPs\obj\Debug\netcoreapp3.1\CalculatorOOPs.csproj.CoreCompileInputs.cache
+D:\StudyField\CalculatorOOPs\obj\Debug\netcoreapp3.1\CalculatorOOPs.dll
+D:\StudyField\CalculatorOOPs\obj\Debug\netcoreapp3.1\CalculatorOOPs.pdb
+D:\StudyField\CalculatorOOPs\obj\Debug\netcoreapp3.1\CalculatorOOPs.genruntimeconfig.cache

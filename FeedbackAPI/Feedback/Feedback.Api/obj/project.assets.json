@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Feedback.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Feedback.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Feedback.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Feedback.Application.dll": {}
+        }
+      },
+      "Feedback.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Feedback.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Feedback.Contracts.dll": {}
+        }
+      },
+      "Feedback.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Feedback.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Feedback.Domain.dll": {}
+        }
+      },
+      "Feedback.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Feedback.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Feedback.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Feedback.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Feedback.Application/1.0.0": {
+      "type": "project",
+      "path": "../Feedback.Application/Feedback.Application.csproj",
+      "msbuildProject": "../Feedback.Application/Feedback.Application.csproj"
+    },
+    "Feedback.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Feedback.Contracts/Feedback.Contracts.csproj",
+      "msbuildProject": "../Feedback.Contracts/Feedback.Contracts.csproj"
+    },
+    "Feedback.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Feedback.Domain/Feedback.Domain.csproj",
+      "msbuildProject": "../Feedback.Domain/Feedback.Domain.csproj"
+    },
+    "Feedback.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Feedback.Infrastructure/Feedback.Infrastructure.csproj",
+      "msbuildProject": "../Feedback.Infrastructure/Feedback.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Feedback.Application >= 1.0.0",
+      "Feedback.Contracts >= 1.0.0",
+      "Feedback.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\athulya.s\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Api\\Feedback.Api.csproj",
+      "projectName": "Feedback.Api",
+      "projectPath": "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Api\\Feedback.Api.csproj",
+      "packagesPath": "C:\\Users\\athulya.s\\.nuget\\packages\\",
+      "outputPath": "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\athulya.s\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Application\\Feedback.Application.csproj": {
+              "projectPath": "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Application\\Feedback.Application.csproj"
+            },
+            "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Contracts\\Feedback.Contracts.csproj": {
+              "projectPath": "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Contracts\\Feedback.Contracts.csproj"
+            },
+            "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Infrastructure\\Feedback.Infrastructure.csproj": {
+              "projectPath": "D:\\StudyField\\FeedbackAPI\\Feedback\\Feedback.Infrastructure\\Feedback.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\StudyField\C#_Basics\C#Basics_Interface\bin\Debug\netcoreapp3.1\C#Basics_Interface.exe
+D:\StudyField\C#_Basics\C#Basics_Interface\bin\Debug\netcoreapp3.1\C#Basics_Interface.deps.json
+D:\StudyField\C#_Basics\C#Basics_Interface\bin\Debug\netcoreapp3.1\C#Basics_Interface.runtimeconfig.json
+D:\StudyField\C#_Basics\C#Basics_Interface\bin\Debug\netcoreapp3.1\C#Basics_Interface.runtimeconfig.dev.json
+D:\StudyField\C#_Basics\C#Basics_Interface\bin\Debug\netcoreapp3.1\C#Basics_Interface.dll
+D:\StudyField\C#_Basics\C#Basics_Interface\bin\Debug\netcoreapp3.1\C#Basics_Interface.pdb
+D:\StudyField\C#_Basics\C#Basics_Interface\obj\Debug\netcoreapp3.1\C#Basics_Interface.csprojAssemblyReference.cache
+D:\StudyField\C#_Basics\C#Basics_Interface\obj\Debug\netcoreapp3.1\C#Basics_Interface.AssemblyInfoInputs.cache
+D:\StudyField\C#_Basics\C#Basics_Interface\obj\Debug\netcoreapp3.1\C#Basics_Interface.AssemblyInfo.cs
+D:\StudyField\C#_Basics\C#Basics_Interface\obj\Debug\netcoreapp3.1\C#Basics_Interface.csproj.CoreCompileInputs.cache
+D:\StudyField\C#_Basics\C#Basics_Interface\obj\Debug\netcoreapp3.1\C#Basics_Interface.dll
+D:\StudyField\C#_Basics\C#Basics_Interface\obj\Debug\netcoreapp3.1\C#Basics_Interface.pdb
+D:\StudyField\C#_Basics\C#Basics_Interface\obj\Debug\netcoreapp3.1\C#Basics_Interface.genruntimeconfig.cache
